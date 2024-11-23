@@ -1,2 +1,0 @@
-# testcases
-manual test case
